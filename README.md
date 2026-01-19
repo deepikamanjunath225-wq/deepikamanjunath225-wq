@@ -15,7 +15,7 @@ Aspiring Software Development Engineer (SDE-1) | Java & Python | Backend & Syste
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/deepika-moger-1085a33a5
-## Hi there 👋
+
 
 <!--
 **deepikamanjunath225-wq/deepikamanjunath225-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
