@@ -1,3 +1,20 @@
+# Hi there 👋 I'm Deepika
+
+Aspiring Software Development Engineer (SDE-1) | Java & Python | Backend & Systems
+
+🔭 I’m currently learning data structures, algorithms, and backend system design.
+
+💻 Tech Skills:
+- Languages: Java, Python, C (basics)
+- Concepts: Data Structures, Algorithms, OOP, Complexity Analysis
+- Tools: Git, MySQL, Agile workflow
+
+📌 Projects:
+- JSP Gram – Full-stack social media application
+- JARVIS – Python voice assistant
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/deepika-moger-1085a33a5
 ## Hi there 👋
 
 <!--
