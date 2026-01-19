@@ -2,7 +2,8 @@
 
 Aspiring Software Development Engineer (SDE-1) | Java & Python | Backend & Systems
 
-🔭 I’m currently learning data structures, algorithms, and backend system design.
+🔭I’m currently strengthening data structures, algorithms, and backend system design for large-scale systems.
+
 
 💻 Tech Skills:
 - Languages: Java, Python, C (basics)
